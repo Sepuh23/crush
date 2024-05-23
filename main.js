@@ -9,7 +9,7 @@ var range_value = document.getElementById('love_range').value;
         var msg = prompt('Alasan Kamu')
         alert('Alasannya Kirim Ke Gw Yh.. jangan membuat aku penasaran..')
         alert('jangan Pernah berbohong meskipun hanya untuk melindungi perasaan aku :)')
-        window.location.href = 'https://wa.me/?text=' + msg;
+        window.location.href = 'https://wa.me/628123456789?text=halo+kamu+cantik' + msg;
     }
     if(kick == '2'){
         alert('Yahh Kok Nggak Sih :(')
@@ -17,7 +17,7 @@ var range_value = document.getElementById('love_range').value;
         var msg = prompt('Alasan Kamu')
         alert('Alasannya Kirim Ke Gw Yh.. jangan membuat aku penasaran..')
         alert('jangan Pernah berbohong meskipun hanya untuk melindungi perasaan aku :)')
-        window.location.href = 'https://wa.me/?text='
+        window.location.href = 'https://wa.me/628123456789?text=halo+kamu+cantik' +msg;
     }
     if(kick == '3'){
         alert('Yahh Kok Nggak Sih :(')
@@ -25,7 +25,7 @@ var range_value = document.getElementById('love_range').value;
         var msg = prompt('Alasan Kamu')
         alert('Alasannya Kirim Ke Gw Yh.. jangan membuat aku penasaran..')
         alert('jangan Pernah berbohong meskipun hanya untuk melindungi perasaan aku :)')
-        window.location.href = 'https://wa.me/628123456789?text=halo kamu' + msg;
+        window.location.href = 'https://wa.me/628123456789?text=halo+kamu+cantik' + msg;
     }
 }
 
